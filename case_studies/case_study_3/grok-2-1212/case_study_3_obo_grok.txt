@@ -1,0 +1,46 @@
+✅ [1/8][General Pythonic Practices] Successfully applied rule in 110.87s (used_input_tokens=3599 | used_output_tokens=2837)
+✅ [2/8][Refactoring] Successfully applied rule in 114.78s (used_input_tokens=4228 | used_output_tokens=2795)
+✅ [3/8][Naming Conventions] Successfully applied rule in 114.09s (used_input_tokens=5956 | used_output_tokens=2811)
+✅ [4/8][Use Main Function and Main Name Idiom] Successfully applied rule in 115.95s (used_input_tokens=3580 | used_output_tokens=2865)
+✅ [5/8][Use Type Annotations/Hinting] Successfully applied rule in 128.78s (used_input_tokens=3665 | used_output_tokens=3145)
+✅ [6/8][Import Modules Correctly] Successfully applied rule in 120.20s (used_input_tokens=4113 | used_output_tokens=3162)
+✅ [7/8][Docstrings] Successfully applied rule in 156.95s (used_input_tokens=6367 | used_output_tokens=5142)
+ValueError: No Python code block found in LLM response, check max_tokens/rate_limits!
+
+
+✅ [1/8][General Pythonic Practices] Successfully applied rule in 115.84s (used_input_tokens=3599 | used_output_tokens=2837)
+✅ [2/8][Refactoring] Successfully applied rule in 110.56s (used_input_tokens=4228 | used_output_tokens=2774)
+✅ [3/8][Naming Conventions] Successfully applied rule in 111.57s (used_input_tokens=5935 | used_output_tokens=2790)
+✅ [4/8][Use Main Function and Main Name Idiom] Successfully applied rule in 118.81s (used_input_tokens=3559 | used_output_tokens=2851)
+✅ [5/8][Use Type Annotations/Hinting] Successfully applied rule in 121.90s (used_input_tokens=3651 | used_output_tokens=3166)
+✅ [6/8][Import Modules Correctly] Successfully applied rule in 120.33s (used_input_tokens=4134 | used_output_tokens=3152)
+✅ [7/8][Docstrings] Successfully applied rule in 156.14s (used_input_tokens=6357 | used_output_tokens=5206)
+ValueError: No Python code block found in LLM response, check max_tokens/rate_limits!
+
+
+✅ [1/8][General Pythonic Practices] Successfully applied rule in 110.42s (used_input_tokens=3599 | used_output_tokens=2837)
+✅ [2/8][Refactoring] Successfully applied rule in 113.49s (used_input_tokens=4228 | used_output_tokens=2795)
+✅ [3/8][Naming Conventions] Successfully applied rule in 114.57s (used_input_tokens=5956 | used_output_tokens=2795)
+✅ [4/8][Use Main Function and Main Name Idiom] Successfully applied rule in 107.97s (used_input_tokens=3564 | used_output_tokens=2853)
+✅ [5/8][Use Type Annotations/Hinting] Successfully applied rule in 120.26s (used_input_tokens=3653 | used_output_tokens=3125)
+✅ [6/8][Import Modules Correctly] Successfully applied rule in 121.13s (used_input_tokens=4093 | used_output_tokens=3142)
+ValueError: No Python code block found in LLM response, check max_tokens/rate_limits!
+
+
+✅ [1/8][General Pythonic Practices] Successfully applied rule in 112.34s (used_input_tokens=3599 | used_output_tokens=2837)
+✅ [2/8][Refactoring] Successfully applied rule in 108.13s (used_input_tokens=4228 | used_output_tokens=2708)
+✅ [3/8][Naming Conventions] Successfully applied rule in 109.75s (used_input_tokens=5869 | used_output_tokens=2724)
+✅ [4/8][Use Main Function and Main Name Idiom] Successfully applied rule in 111.33s (used_input_tokens=3493 | used_output_tokens=2785)
+✅ [5/8][Use Type Annotations/Hinting] Successfully applied rule in 117.72s (used_input_tokens=3585 | used_output_tokens=3095)
+✅ [6/8][Import Modules Correctly] Successfully applied rule in 117.96s (used_input_tokens=4063 | used_output_tokens=3079)
+ValueError: No Python code block found in LLM response, check max_tokens/rate_limits!
+
+
+
+
+✅ [1/8][General Pythonic Practices] Successfully applied rule in 115.73s (used_input_tokens=3599 | used_output_tokens=2837)
+✅ [2/8][Refactoring] Successfully applied rule in 115.20s (used_input_tokens=4228 | used_output_tokens=2795)
+✅ [3/8][Naming Conventions] Successfully applied rule in 112.62s (used_input_tokens=5956 | used_output_tokens=2811)
+✅ [4/8][Use Main Function and Main Name Idiom] Successfully applied rule in 111.09s (used_input_tokens=3580 | used_output_tokens=2872)
+✅ [5/8][Use Type Annotations/Hinting] Successfully applied rule in 118.81s (used_input_tokens=3672 | used_output_tokens=3152)
+✅ [6/8][Import Modules Correctly] Successfully applied rule in 112.82s (used_input_tokens=4120 | used_output_tokens=3161)

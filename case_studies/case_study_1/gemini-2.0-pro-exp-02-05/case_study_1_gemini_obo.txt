@@ -1,0 +1,65 @@
+✅ [1/8][General Pythonic Practices] Successfully applied rule in 12.00s (used_input_tokens=1213 | used_output_tokens=443)
+✅ [2/8][Refactoring] Successfully applied rule in 12.00s (used_input_tokens=2034 | used_output_tokens=409)
+✅ [3/8][Naming Conventions] Successfully applied rule in 12.00s (used_input_tokens=3911 | used_output_tokens=460)
+✅ [4/8][Use Main Function and Main Name Idiom] Successfully applied rule in 12.00s (used_input_tokens=1315 | used_output_tokens=564)
+✅ [5/8][Use Type Annotations/Hinting] Successfully applied rule in 12.00s (used_input_tokens=1453 | used_output_tokens=595)
+✅ [6/8][Import Modules Correctly] Successfully applied rule in 12.00s (used_input_tokens=1616 | used_output_tokens=600)
+✅ [7/8][Docstrings] Successfully applied rule in 13.35s (used_input_tokens=4295 | used_output_tokens=1559)
+✅ [8/8][Formatting & spacing] Successfully applied rule in 12.00s (used_input_tokens=1768 | used_output_tokens=1587)
+run_optimization took 97.3945s to run.
+==========================================================================================================================================================================================================================================
+                                                  LOC          SLOC        SLCOM         MULTI        BLANK          /       Commented Lines Avg. func len (with docs) Avg. func len (without docs)   Avg. CC         MI      Pylint Score
+case_studies\case_study_1_1_optimized_obo.py  218 (100.0%)  57 (26.15%)   0 (0.00%)   125 (57.34%)  36 (16.51%)       /          0 (0.00%)              31.20                      9.60               2.20 (A)     72.00 (A)      10.00   
+==========================================================================================================================================================================================================================================
+✅ [1/8][General Pythonic Practices] Successfully applied rule in 12.00s (used_input_tokens=1190 | used_output_tokens=417)
+✅ [2/8][Refactoring] Successfully applied rule in 12.00s (used_input_tokens=2008 | used_output_tokens=395)
+✅ [3/8][Naming Conventions] Successfully applied rule in 12.00s (used_input_tokens=3898 | used_output_tokens=433)
+✅ [4/8][Use Main Function and Main Name Idiom] Successfully applied rule in 12.00s (used_input_tokens=1289 | used_output_tokens=519)
+✅ [5/8][Use Type Annotations/Hinting] Successfully applied rule in 12.00s (used_input_tokens=1410 | used_output_tokens=529)
+✅ [6/8][Import Modules Correctly] Successfully applied rule in 12.00s (used_input_tokens=1552 | used_output_tokens=534)
+✅ [7/8][Docstrings] Successfully applied rule in 12.77s (used_input_tokens=4231 | used_output_tokens=1561)
+✅ [8/8][Formatting & spacing] Successfully applied rule in 12.00s (used_input_tokens=1777 | used_output_tokens=1585)
+run_optimization took 96.8146s to run.
+==========================================================================================================================================================================================================================================
+                                                  LOC          SLOC        SLCOM         MULTI        BLANK          /       Commented Lines Avg. func len (with docs) Avg. func len (without docs)   Avg. CC         MI      Pylint Score
+case_studies\case_study_1_2_optimized_obo.py  202 (100.0%)  53 (26.24%)   0 (0.00%)   112 (55.45%)  37 (18.32%)       /          0 (0.00%)              29.40                      8.40               2.00 (A)     73.13 (A)      10.00
+==========================================================================================================================================================================================================================================
+✅ [1/8][General Pythonic Practices] Successfully applied rule in 12.00s (used_input_tokens=1190 | used_output_tokens=405)
+✅ [2/8][Refactoring] Successfully applied rule in 12.00s (used_input_tokens=1996 | used_output_tokens=437)
+✅ [3/8][Naming Conventions] Successfully applied rule in 12.00s (used_input_tokens=3939 | used_output_tokens=471)
+✅ [4/8][Use Main Function and Main Name Idiom] Successfully applied rule in 12.00s (used_input_tokens=1326 | used_output_tokens=529)
+✅ [5/8][Use Type Annotations/Hinting] Successfully applied rule in 12.00s (used_input_tokens=1420 | used_output_tokens=544)
+✅ [6/8][Import Modules Correctly] Successfully applied rule in 12.00s (used_input_tokens=1567 | used_output_tokens=549)
+✅ [7/8][Docstrings] Successfully applied rule in 12.00s (used_input_tokens=4246 | used_output_tokens=1461)
+✅ [8/8][Formatting & spacing] Successfully applied rule in 12.00s (used_input_tokens=1676 | used_output_tokens=1507)
+run_optimization took 96.0356s to run.
+==========================================================================================================================================================================================================================================
+                                                  LOC          SLOC        SLCOM         MULTI        BLANK          /       Commented Lines Avg. func len (with docs) Avg. func len (without docs)   Avg. CC         MI      Pylint Score
+case_studies\case_study_1_3_optimized_obo.py  218 (100.0%)  54 (24.77%)   1 (0.46%)   125 (57.34%)  38 (17.43%)       /          1 (0.46%)              33.20                      9.00               2.20 (A)     72.56 (A)      10.00
+==========================================================================================================================================================================================================================================
+✅ [1/8][General Pythonic Practices] Successfully applied rule in 12.00s (used_input_tokens=1190 | used_output_tokens=363)
+✅ [2/8][Refactoring] Successfully applied rule in 12.00s (used_input_tokens=1954 | used_output_tokens=467)
+✅ [3/8][Naming Conventions] Successfully applied rule in 12.00s (used_input_tokens=3969 | used_output_tokens=523)
+✅ [4/8][Use Main Function and Main Name Idiom] Successfully applied rule in 12.00s (used_input_tokens=1378 | used_output_tokens=619)
+✅ [5/8][Use Type Annotations/Hinting] Successfully applied rule in 12.00s (used_input_tokens=1510 | used_output_tokens=648)
+✅ [6/8][Import Modules Correctly] Successfully applied rule in 12.00s (used_input_tokens=1671 | used_output_tokens=653)
+✅ [7/8][Docstrings] Successfully applied rule in 12.70s (used_input_tokens=4350 | used_output_tokens=1607)
+✅ [8/8][Formatting & spacing] Successfully applied rule in 12.00s (used_input_tokens=1822 | used_output_tokens=1634)
+run_optimization took 96.7376s to run.
+==========================================================================================================================================================================================================================================
+                                                  LOC          SLOC        SLCOM         MULTI        BLANK          /       Commented Lines Avg. func len (with docs) Avg. func len (without docs)   Avg. CC         MI      Pylint Score
+case_studies\case_study_1_4_optimized_obo.py  229 (100.0%)  62 (27.07%)   0 (0.00%)   129 (56.33%)  38 (16.59%)       /          0 (0.00%)              25.29                      7.14               1.86 (A)     71.24 (A)      10.00
+==========================================================================================================================================================================================================================================
+✅ [1/8][General Pythonic Practices] Successfully applied rule in 12.00s (used_input_tokens=1190 | used_output_tokens=357)
+✅ [2/8][Refactoring] Successfully applied rule in 12.00s (used_input_tokens=1948 | used_output_tokens=437)
+✅ [3/8][Naming Conventions] Successfully applied rule in 12.00s (used_input_tokens=3939 | used_output_tokens=467)
+✅ [4/8][Use Main Function and Main Name Idiom] Successfully applied rule in 12.00s (used_input_tokens=1322 | used_output_tokens=530)
+✅ [5/8][Use Type Annotations/Hinting] Successfully applied rule in 12.00s (used_input_tokens=1421 | used_output_tokens=540)
+✅ [6/8][Import Modules Correctly] Successfully applied rule in 12.00s (used_input_tokens=1563 | used_output_tokens=545)
+✅ [7/8][Docstrings] Successfully applied rule in 12.48s (used_input_tokens=4242 | used_output_tokens=1477)
+✅ [8/8][Formatting & spacing] Successfully applied rule in 12.00s (used_input_tokens=1694 | used_output_tokens=1508)
+run_optimization took 96.5131s to run.
+==========================================================================================================================================================================================================================================
+                                                  LOC          SLOC        SLCOM         MULTI        BLANK          /       Commented Lines Avg. func len (with docs) Avg. func len (without docs)   Avg. CC         MI      Pylint Score
+case_studies\case_study_1_5_optimized_obo.py  218 (100.0%)  54 (24.77%)   0 (0.00%)   122 (55.96%)  42 (19.27%)       /          0 (0.00%)              27.67                      7.33               2.00 (A)     72.96 (A)      10.00
+==========================================================================================================================================================================================================================================
